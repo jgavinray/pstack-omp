@@ -11,7 +11,7 @@ leaves, the `poteto-mode` pin, and the `poteto-agent` and `comment-sicko` agents
 /marketplace install pstack@pstack-omp
 ```
 
-That loads the 59 skills and both extensions, `potetomode` and `pstackpolicy`. The two agents are optional.
+That loads the 60 skills and both extensions, `potetomode` and `pstackpolicy`. The two agents are optional.
 On omp 18.1.13 a marketplace plugin's `agents/` directory is scanned only through the
 `claude-plugins` discovery provider, and enabling that provider also loads every Claude Code
 plugin cached under `~/.claude/plugins`. Link the agents into omp's native root instead:

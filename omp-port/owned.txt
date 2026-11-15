@@ -8,4 +8,5 @@
 # has no such path. `owned drift` fails when upstream's object differs, so an upstream edit to an
 # owned path is read before a sync lands rather than discarded by the build in silence.
 skills/omp-mechanics	-
+skills/scope-guard	-
 skills/pstack-omp	-
