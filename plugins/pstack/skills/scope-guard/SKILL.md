@@ -1,7 +1,7 @@
 ---
 name: scope-guard
 description: Use before any edit to a protected config path, when a task names omp agent config, models.yml, mcp.json, crush config, or secrets files. Forces a field-level enumeration of the user mandate and surfaces an advisory adjudicator verdict. Never blocks; it nudges.
-disable-model-invocation: true
+disable-model-invocation: false
 ---
 
 # Scope guard
